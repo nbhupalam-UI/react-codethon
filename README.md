@@ -46,9 +46,3 @@ Access the site on https://degens.netlify.com/
 
 7. Make sure local MySql Server is up and listening on port 8080.
 
-
-# Contributors
-* Krishan Kiran (KK)
-* Karan Kumar
-* Chetan Lakhanpal
-* Abhik Dey
